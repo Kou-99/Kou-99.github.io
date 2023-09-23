@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Phd student at [VSLab](http://vslab.ia.ac.cn/en/#about) of Institute of Automation, Chinese Academy of Science ([CASIA](http://english.ia.cas.cn)), under supervision of [Prof.Bin Li](http://www.ia.cas.cn/sourcedb_ia_cas/cn/iaexpert/201707/t20170715_4833365.html). I also work closely with [Prof.Jin Gao](https://people.ucas.edu.cn/~jgao?language=en). Prior to that, I received my B.E. degree from Huazhong University of Science and Technology ([HUST](https://www.hust.edu.cn)). My research interests are efficient and brain-inspired vision algorithms, especially for their application to visual tracking. My research goal is to enable fast, robust and human-like perception for machines.  
+I am currently a PhD student at [VSLab](http://vslab.ia.ac.cn/en/#about) of Institute of Automation, Chinese Academy of Science ([CASIA](http://english.ia.cas.cn)), under supervision of [Prof.Bin Li](http://www.ia.cas.cn/sourcedb_ia_cas/cn/iaexpert/201707/t20170715_4833365.html). I also work closely with [Prof.Jin Gao](https://people.ucas.edu.cn/~jgao?language=en). Prior to that, I received my B.E. degree from Huazhong University of Science and Technology ([HUST](https://www.hust.edu.cn)). My research interests are efficient and brain-inspired vision algorithms, especially for their application to visual tracking. My research goal is to enable fast, robust, and human-like perception for machines.  
 
-Feel free to drop me a mail if you have question about our work or interested in a cooperation.
+Feel free to drop me an email if you have questions about our work or are interested in cooperation.
 
 Email: kouyutong2021 [at] ia.ac.cn
 
 ## Updates
 
-* 2023.09: ZoomTrack is accepted by NeurlIPS2023 as a spotlight.
+* 2023.09: ZoomTrack is accepted by NeurIPS2023 as a spotlight.
 
 ## Publications
 * ***Yutong Kou***, Jin Gao, Liang Li, Gang Wang, Weiming Hu, Yizheng Wang and Bing Li \\
