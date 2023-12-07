@@ -16,12 +16,12 @@ Email: kouyutong2021 [at] ia.ac.cn
 
 ## Updates
 
-* 2023.09: ZoomTrack is accepted by NeurlIPS2023 as a spotlight.
+* 2023.09: ZoomTrack is accepted by NeurIPS2023 as a spotlight.
 
 ## Publications
 * ***Yutong Kou***, Jin Gao, Liang Li, Gang Wang, Weiming Hu, Yizheng Wang and Bing Li \\
 ZoomTrack: Target-aware Non-uniform Resizing for Efficient Visual Tracking \\
-**NeurIPS2023 (Spotlight)**  [pdf] \[[codes(still in preparation)](https://github.com/Kou-99/ZoomTrack)\]
+**NeurIPS2023 (Spotlight)**  \[[pdf](https://arxiv.org/pdf/2310.10071.pdf)\] \[[codes\](https://github.com/Kou-99/ZoomTrack)\]
 
 * Jin Gao, Yan Lu, Xiaojuan Qi, ***Yutong Kou***, Bing Li, Liang Li, Shan Yu and Weiming Hu \\
 Recursive Least-Squares Estimator-Aided Online Learning for Visual Tracking \\
